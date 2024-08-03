@@ -1,8 +1,4 @@
 {
-    "version": 2,
-    "env": {
-        "MONGO_URI": "@nestjs_learn"
-    },
     "builds": [
         {
             "src": "src/main.ts",
